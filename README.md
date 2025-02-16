@@ -11,9 +11,9 @@
 
 - 🎓 I'm a `Biotechnology` student at [Universidad Politécnica de Valencia](https://www.upv.es/)
 - 🔬 Focused on `Bioinformatics`, `Cell Culture`, and `Biomaterials`
-- 🧬 Interested in `Metabolomics`, `AI in Brain Diseases`, and `Gene Therapy`
-- 💼 Looking for internships in `R&D`, `Biomedicine`, and `Biotech`
-- 🖥️ Exploring `Notion`, `Salesforce`, and `Google Workspace`
+- 🧬 Interested in `Data Science`, `AI in biology`, and `Gene Therapy`
+- 💼 Looking for internships in `Data`, `Biomedicine`, and `Biotech`
+- 🖥️ Exploring `Notion`, `BigQuery`, and `Google Workspace`
 - 🤓 Always learning new things and applying software solutions to biotech problems
 
 <br>
