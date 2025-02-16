@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo1Y3N5dGJ5c2wzbzd5amcxM3p6NmppaDFoNGRtejJhdDY4cXN5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KsbBktCnu3Fz5OntSi/giphy.gif" width="80%"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Biotechnology+%40UPV;Interested+in+Bioinformatics%2C+Cell+Culture+%26+Biomaterials;Exploring+Data+%26+AI;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Biotechnology+%40UPV;Bioinformatics%2C+Cell+Culture+%26+Biomaterials%2C+Data;Exploring+Data+%26+AI;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <br>
